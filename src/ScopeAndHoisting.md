@@ -1,4 +1,4 @@
-## JavaScript Variable Scope and Hoisting Explained
+## JavaScript Variable Scope and Hoisting Explained ⚓
 
 In this post, we will learn JavaScript’s variable scope and hoisting and all the idiosyncrasies of both.
 
