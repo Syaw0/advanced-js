@@ -11,3 +11,4 @@
 - [Closures](https://github.com/Syaw0/advanced-js/blob/master/src/Closures.md)
 - [CallBack Functions](https://github.com/Syaw0/advanced-js/blob/master/src/CallBack.md)
 - [Map And Sets](https://github.com/Syaw0/advanced-js/blob/master/src/MapAndSets.md)
+- [CLasses](https://github.com/Syaw0/advanced-js/blob/master/src/Classes.md)
