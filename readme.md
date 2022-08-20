@@ -11,6 +11,11 @@
 - [Closures](https://github.com/Syaw0/advanced-js/blob/master/src/Closures.md)
 - [CallBack Functions](https://github.com/Syaw0/advanced-js/blob/master/src/CallBack.md)
 - [Map And Sets](https://github.com/Syaw0/advanced-js/blob/master/src/MapAndSets.md)
+
+#### classes
 - [Classes](https://github.com/Syaw0/advanced-js/blob/master/src/Classes.md)
+- [Static Properties and methods](https://github.com/Syaw0/advanced-js/blob/master/src/StaticPropInClass.md)
+<br/>
+
 - [Iterables](https://github.com/Syaw0/advanced-js/blob/master/src/Iterables.md)
 - [Generators](https://github.com/Syaw0/advanced-js/blob/master/src/Generators.md)
