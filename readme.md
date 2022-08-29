@@ -14,6 +14,7 @@
 
 #### classes
 - [Classes](https://github.com/Syaw0/advanced-js/blob/master/src/Classes.md)
+- [Class Inheritance](https://github.com/Syaw0/advanced-js/blob/master/src/ClassInheritance.md)
 - [Static Properties and methods](https://github.com/Syaw0/advanced-js/blob/master/src/StaticPropInClass.md)
 <br/>
 
