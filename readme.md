@@ -20,6 +20,7 @@
 - [Extending built-in classes](https://github.com/Syaw0/advanced-js/blob/master/src/ExtendingBuiltInClasses.md)
 - [Class checking "instanceof"](https://github.com/Syaw0/advanced-js/blob/master/src/ClassChecking.md)
 <br/>
+
 - [Decorators and forwarding, call/apply](https://github.com/Syaw0/advanced-js/blob/master/src/DecoratorAndForwardCall.md)
 - [Iterables](https://github.com/Syaw0/advanced-js/blob/master/src/Iterables.md)
 - [Generators](https://github.com/Syaw0/advanced-js/blob/master/src/Generators.md)
