@@ -18,6 +18,7 @@
 - [Static Properties and methods](https://github.com/Syaw0/advanced-js/blob/master/src/StaticPropInClass.md)
 - [Private and protected properties and methods](https://github.com/Syaw0/advanced-js/blob/master/src/PrivateMethodsAndProp.md)
 - [Extending built-in classes](https://github.com/Syaw0/advanced-js/blob/master/src/ExtendingBuiltInClasses.md)
+- [Class checking "instanceof"](https://github.com/Syaw0/advanced-js/blob/master/src/ClassChecking.md)
 <br/>
 
 - [Iterables](https://github.com/Syaw0/advanced-js/blob/master/src/Iterables.md)
