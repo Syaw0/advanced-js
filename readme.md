@@ -28,3 +28,6 @@
 - [Symbols](https://github.com/Syaw0/advanced-js/blob/master/src/Symbols.md)
 - [Proxy and Reflect](https://github.com/Syaw0/advanced-js/blob/master/src/ProxyAndReflect.md)
 - [Property flags and descriptors](https://github.com/Syaw0/advanced-js/blob/master/src/PropertyFlagAndDec.md)
+
+
+- [Error handling, "try...catch"](https://github.com/Syaw0/advanced-js/blob/master/src/ErrorHandling.md)
