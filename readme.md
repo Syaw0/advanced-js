@@ -31,3 +31,4 @@
 
 
 - [Error handling, "try...catch"](https://github.com/Syaw0/advanced-js/blob/master/src/ErrorHandling.md)
+- [Custom errors, extending Error](https://github.com/Syaw0/advanced-js/blob/master/src/CustomErrors.md)
