@@ -38,6 +38,7 @@
 #### Promises, async/await
 
 - [Promise](https://github.com/Syaw0/advanced-js/blob/master/src/Promise.md)
+- [Promises chaining](https://github.com/Syaw0/advanced-js/blob/master/src/PromiseChaining.md)
 
 
 
