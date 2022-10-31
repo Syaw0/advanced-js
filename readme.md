@@ -31,8 +31,8 @@
 
 
 - [Error handling, "try...catch"](https://github.com/Syaw0/advanced-js/blob/master/src/ErrorHandling.md)
-- [Custom errors, extending Error](https://github.com/Syaw0/advanced-js/blob/master/src/Cookies.md)
-- [Cookies](https://github.com/Syaw0/advanced-js/blob/master/src/PromiseChaining.md)
+- [Custom errors, extending Error](https://github.com/Syaw0/advanced-js/blob/master/src/PromiseChaining.md)
+- [Cookies](https://github.com/Syaw0/advanced-js/blob/master/src/Cookies.md)
 <br/>
 
 #### Promises, async/await
