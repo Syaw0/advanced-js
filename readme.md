@@ -33,13 +33,18 @@
 - [Error handling, "try...catch"](https://github.com/Syaw0/advanced-js/blob/master/src/ErrorHandling.md)
 - [Custom errors, extending Error](https://github.com/Syaw0/advanced-js/blob/master/src/PromiseChaining.md)
 - [Cookies](https://github.com/Syaw0/advanced-js/blob/master/src/Cookies.md)
-- [Service Workers](https://github.com/Syaw0/advanced-js/blob/master/src/ServiceWorkers.md)
+
 <br/>
 
 #### Promises, async/await
 
 - [Promise](https://github.com/Syaw0/advanced-js/blob/master/src/Promise.md)
 - [Promises chaining](https://github.com/Syaw0/advanced-js/blob/master/src/PromiseChaining.md)
+
+
+
+#### Browser Api
+- [Service Workers](https://github.com/Syaw0/advanced-js/blob/master/src/ServiceWorkers.md)
 
 
 
