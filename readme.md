@@ -49,6 +49,7 @@
 
 ##### Performance
 - [Performance](https://github.com/Syaw0/advanced-js/blob/master/src/Performance.md)
+- [Navigation](https://github.com/Syaw0/advanced-js/blob/master/src/PerformanceNavigation.md)
 
 
 
