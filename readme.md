@@ -46,6 +46,7 @@
 #### Browser Api
 - [Service Workers](https://github.com/Syaw0/advanced-js/blob/master/src/ServiceWorkers.md)
 - [Stream](https://github.com/Syaw0/advanced-js/blob/master/src/Stream.md)
+- [Location](https://github.com/Syaw0/advanced-js/blob/master/src/Location.md)
 
 ##### Performance
 - [Performance](https://github.com/Syaw0/advanced-js/blob/master/src/Performance.md)
