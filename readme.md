@@ -50,6 +50,8 @@
 - [History](https://github.com/Syaw0/advanced-js/blob/master/src/History.md)
 - [Navigator](https://github.com/Syaw0/advanced-js/blob/master/src/Navigator.md)
 
+- [Fetch](https://github.com/Syaw0/advanced-js/blob/master/src/Fetch.md)
+
 ##### Performance
 - [Performance](https://github.com/Syaw0/advanced-js/blob/master/src/Performance.md)
 - [Navigation](https://github.com/Syaw0/advanced-js/blob/master/src/PerformanceNavigation.md)
